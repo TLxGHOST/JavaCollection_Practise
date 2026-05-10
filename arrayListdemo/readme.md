@@ -1,0 +1,13 @@
+- P1: Write a program to sort an ArrayList of Strings alphabetically.
+- P2: Write a program to find the maximum element from an ArrayList of Integers.
+- P3: Write a program to remove all duplicate elements from an ArrayList.
+- P4: Create a LinkedList and perform various operations like add, remove, and iterate over it.
+- P5: Write a program to find the intersection of two ArrayLists.
+- P6: Write a program to shuffle the elements of an ArrayList.
+- P7: Write a program to find the second-largest element in an ArrayList of Integers.
+- P8: Write a program to find the frequency of each element in an ArrayList.
+- P9: Write a program to find the kth smallest element in an ArrayList.
+- P10: Write a program to merge two ArrayLists into a single ArrayList.
+- P11: Write a program to find the intersection of multiple Sets.
+- P12: Write a program to check if two LinkedLists are equal.
+- P13: Write a program to check if a HashSet is a subset of another HashSet.
