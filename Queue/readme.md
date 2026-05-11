@@ -1,5 +1,4 @@
-Implement a Queue using the LinkedList class.
-Implement a priority queue using a custom comparator.
-Implement a Queue using the PriorityQueue class.
-Implement a Queue using the ArrayDeque class.
-Implement a Queue using the PriorityQueue class with a custom comparator.
+- P1 :Implement a Queue using the LinkedList class.
+- P2 :Implement a priority queue using a custom comparator.
+- P3 :Implement a Queue using the PriorityQueue class.
+- P4 :Implement a Queue using the ArrayDeque class.
