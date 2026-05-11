@@ -1,4 +1,4 @@
-Create a LinkedList and perform various operations like add, remove, and iterate over it.
-Implement a Queue using the LinkedList class.
-Implement a Stack using the LinkedList class.
-Write a program to check if two LinkedLists are equal.
+- P1 :Create a LinkedList and perform various operations like add, remove, and iterate over it.
+- P2 :Implement a Queue using the LinkedList class.
+- P3 :Implement a Stack using the LinkedList class.
+- P4 :Write a program to check if two LinkedLists are equal.
