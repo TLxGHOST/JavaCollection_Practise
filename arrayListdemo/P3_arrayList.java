@@ -4,7 +4,7 @@
 import java.lang.reflect.Array;
 import java.util.*;
 
-public class P3 {
+public class P3_arrayList {
 
   public static void main(String[] args) {
     ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1, 2, 3, 2, 4, 1, 5, 3));

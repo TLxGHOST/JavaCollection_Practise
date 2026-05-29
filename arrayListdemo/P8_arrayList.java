@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class P8 {
+public class P8_arrayList {
   public static void main(String[] args) {
     ArrayList<Integer> list1 = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5, 12, 34, 425, 1, 123, 23, 35));
     Map<Integer, Integer> freq = new LinkedHashMap<>();

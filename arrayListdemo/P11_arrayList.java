@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class P11 {
+public class P11_arrayList {
   public static void main(String[] args) {
 
     Set<Integer> set1 = new HashSet<>(Arrays.asList(1, 2, 3, 4, 5));

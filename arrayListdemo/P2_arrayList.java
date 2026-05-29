@@ -4,7 +4,7 @@
 import java.lang.reflect.Array;
 import java.util.*;
 
-public class P2 {
+public class P2_arrayList {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int x = 0;

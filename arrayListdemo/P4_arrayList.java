@@ -2,7 +2,7 @@ import java.util.*;
 
 // Create a LinkedList and perform various operations like add, remove, and iterate over it.
 // and we ccan also use linked list provided by collection frame work
-public class P4 {
+public class P4_arrayList {
   public static void main(String[] args) {
     List<Integer> LL = new LinkedList<>();
     LL.add(1);

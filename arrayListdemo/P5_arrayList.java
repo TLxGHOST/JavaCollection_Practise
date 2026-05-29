@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class P5 {
+public class P5_arrayList {
   public static void main(String[] args) {
 
     ArrayList<Integer> list1 = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));

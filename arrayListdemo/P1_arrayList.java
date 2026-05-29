@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 
-public class P1 {
+public class P1_arrayList {
   // 1. Write a program to sort an ArrayList of Strings alphabetically.
 
   public static void main(String[] args) {

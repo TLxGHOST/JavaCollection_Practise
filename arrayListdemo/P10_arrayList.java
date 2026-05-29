@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class P10 {
+public class P10_arrayList {
   public static void main(String[] args) {
     ArrayList<Integer> list1 = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
     ArrayList<Integer> list2 = new ArrayList<>(Arrays.asList(3, 4, 5, 6, 7));
